@@ -1,9 +1,10 @@
+<!DOCTYPE html>
+
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
     <title>Finesse Hair</title>
-
- <style>
+    <style>
         h1{
             text-align:center;
             padding: 30px;
@@ -18,8 +19,7 @@
 
     <h1>
         Finesse  &nbsp;&nbsp;&nbsp;
-
-       <li>
+        <li>
             <a href="http://localhost:55026/home.html"> Home</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
             <a href="http://localhost:58973/about_us.html"> Products</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,15 +31,30 @@
 
         </li>
     </h1>
-
- <p></p>
- <i>
-      A well-matched hair style can help a woman's beauty blossom.
+    <hr />
+    <style>
+        h2 {
+            font-family:cursive;
+            font-size: 50px;
+            color: black;
+            background-color:pink;
+        }
+    </style>
+    <h2>
+        <p></p> <img src="finesse crown.jpeg" alt="finesse symbol" style="width:800px ; height:500px ; align-content:center ;float:left">
+                <i>
+                    A well-matched hair style can help a woman's beauty blossom.
                     Finesse Hair gives you that kind of help.
                     We offer a variety of hair  <a href="http://localhost:58973/about_us.html"> Products</a> and accessories , plaiting <a href="http://localhost:58973/about_us.html"> Services</a> as well as experianced stylist all at affordable prices.
                     We operate with flexibility, you can come to us or we can come to you.
                     We can't wait to meet you!
-</i>
- </p>
+                </i>
+        </p>
+    </h2>
+   
+
+    <footer style="padding-bottom:200px;">
+        Copyright
+    </footer>
 </body>
 </html>
