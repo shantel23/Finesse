@@ -18,6 +18,18 @@
 
     <h1>
         Finesse  &nbsp;&nbsp;&nbsp;
+
+       <li>
+            <a href="http://localhost:55026/home.html"> Home</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+            <a href="http://localhost:58973/about_us.html"> Products</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+            <a href="http://localhost:58973/about_us.html"> Services</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+            <a href="http://localhost:55026/about_us.html"> About Us</a>
+
+
+        </li>
     </h1>
 
 </body>
