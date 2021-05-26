@@ -3,7 +3,13 @@
     <meta charset="utf-8" />
     <title>Finesse Hair</title>
 
+ 
+</head>
+<body>
 
+    <h1>
+        Finesse  &nbsp;&nbsp;&nbsp;
+    </h1>
 
-
+</body>
 </html>
