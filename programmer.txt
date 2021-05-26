@@ -32,5 +32,13 @@
         </li>
     </h1>
 
+ <p></p>
+
+      A well-matched hair style can help a woman's beauty blossom.
+                    Finesse Hair gives you that kind of help.
+                    We offer a variety of hair  <a href="http://localhost:58973/about_us.html"> Products</a> and accessories , plaiting <a href="http://localhost:58973/about_us.html"> Services</a> as well as experianced stylist all at affordable prices.
+                    We operate with flexibility, you can come to us or we can come to you.
+                    We can't wait to meet you!
+ </p>
 </body>
 </html>
